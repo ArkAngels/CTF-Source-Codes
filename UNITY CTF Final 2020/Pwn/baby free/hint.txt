@@ -1,0 +1,1 @@
+array size out of bound when insert note more than 6 which can overwrite ptr[0]
